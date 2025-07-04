@@ -128,3 +128,5 @@ Use official onion URLs and verify those. Mirror sites provide continuous access
 
 Darknet markets facilitate anonymous transactions. By following these guidelines, practicing security, using escrow, and being cautious, you can navigate these markets safely. Always verify URLs and use encryption.
 Plase contribute and add stars to this repo.
+
+Update:  04.07.2025 Fixed broken compatibility reference links
